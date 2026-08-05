@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mogaka Sylvester Stephen | Pharmacy Technologist</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f4f8fb;color:#18323f}
+header{background:#087f8c;color:white;text-align:center;padding:55px 20px}
+h1{margin:0;font-size:36px}
+header p{font-size:19px}
+section{max-width:900px;margin:25px auto;padding:30px;background:white;border-radius:15px;box-shadow:0 4px 15px #0001}
+h2{color:#087f8c}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:15px}
+.card{padding:20px;background:#eef8f8;border-radius:12px}
+a{color:#087f8c;text-decoration:none;font-weight:bold}
+footer{text-align:center;padding:30px;background:#18323f;color:white;margin-top:30px}
+</style>
+</head>
+<body>
+<header>
+<h1>Mogaka Sylvester Stephen</h1>
+<p>Pharmacy Technologist | Medication & Patient Care</p>
+<p>📍 Kenya</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>I am a Pharmacy Technologist focused on safe medication use, patient care, professionalism and responsible pharmaceutical services.</p>
+</section>
+
+<section>
+<h2>Professional Services</h2>
+<div class="cards">
+<div class="card"><h3>💊 Medication Support</h3><p>Guidance on appropriate medication use and safe medicine practices.</p></div>
+<div class="card"><h3>🧑‍⚕️ Patient Care</h3><p>Patient-focused pharmaceutical support and health education.</p></div>
+<div class="card"><h3>📋 Medication Information</h3><p>Clear information about medicines, administration and precautions.</p></div>
+<div class="card"><h3>🔐 Professional Practice</h3><p>Committed to confidentiality, safety and responsible pharmacy practice.</p></div>
+</div>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>📞 Phone/WhatsApp: +25474544504</p>
+<p>📧 Email: sylevestermogaka@gmail.com</p>
+<p>📍 Location: Kenya</p>
+</section>
+
+<footer>
+<p>© 2026 Mogaka Sylvester Stephen | Pharmacy Technologist</p>
+</footer>
+</body>
+</html>
